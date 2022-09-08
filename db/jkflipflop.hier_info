@@ -1,0 +1,14 @@
+|jkflipflop
+J => process_0.IN0
+J => process_0.IN0
+J => process_0.IN0
+K => process_0.IN1
+K => process_0.IN1
+K => process_0.IN1
+clk => Qd~reg0.CLK
+clk => Q~reg0.CLK
+clk => temp.CLK
+Q << Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Qd << Qd~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

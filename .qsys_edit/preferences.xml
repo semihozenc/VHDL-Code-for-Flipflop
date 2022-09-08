@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable>
+  <columns>
+   <connections preferredWidth="47" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <clocktable>
+  <columns>
+   <clockname preferredWidth="355" />
+   <clocksource preferredWidth="354" />
+   <frequency preferredWidth="336" />
+  </columns>
+ </clocktable>
+ <window width="1920" height="1030" x="0" y="0" />
+ <library expandedCategories="Project,Library/Bridges,Library" />
+</preferences>
